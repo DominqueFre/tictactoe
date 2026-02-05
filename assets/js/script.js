@@ -33,7 +33,14 @@ generalPhrases = [
     "Think carefully! Your move can change the game.",
     "The game is heating up! Make your move.",
     "It's getting intense! Choose your next move wisely.",
-    "The board is filling up! Make your move before it's too late.",
+    "The board is filling up! Make your move before it's too late."
+    "The game is in full swing! Place your counter!",
+    "Every move counts! Choose wisely and see if you can outsmart the computer.",
+    "Time to play!",
+    "If only we could both win!",
+    "Let's see who comes out on top!",
+    
+
 ];
 
 // Starting phrases
