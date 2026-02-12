@@ -21,6 +21,7 @@
     (i)     Choice of themes with choice of token.
         a.  Flowery
         b.  Traditional
+        c.  Fairytale
         c.  Dark
 
 - Simple one page gameplay
