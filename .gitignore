@@ -1,6 +1,8 @@
-Ignore virtual environment folders
-venv/
-.venv/
+# Ignore virtual environment folders
+#  To activate   : source C:/Users/domin/codingfolderrepos/tictactoe/.venv/Scripts/activate
+#  To deactivate : deactivate
+.venv
+env.py
 
 Standard Java ignore rules below:# Compiled source #
 ###################
